@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Joaquin Magnelli 👋
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RnYWphcDR1ZTBhZThtZjg4eTdqOHd4YXAxMDBrc3A2MjFucDB1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6CFMRrKuR1cLV6Wdr/giphy.webp" />
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am a full stack developer student currently enrolled at Coderhouse. I enjoy programming and exploring both front-end and back-end development. I graduated high school with a diploma in computer science, and I’m constantly expanding my skills and knowledge to build creative, productive, and innovative solutions.
+
+👯 I’m looking forward to collaborating on open-source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and playing football.
+- 📫 Reach out to me at: <a href="jmagnellif@gmail.com">jmagnellif@gmail.com</a>
 ## My Skills Include
 
 <h4> Languages </h4>
